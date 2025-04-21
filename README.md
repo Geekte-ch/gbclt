@@ -1,2 +1,3 @@
-# gbclt
-This repo is entirely dedicated to templates for GB and GBC labels.
+# Game Boy / Color Label Templates
+
+The latest template(s) for Gameboy and Gameboy Color sized cartridge labels.
